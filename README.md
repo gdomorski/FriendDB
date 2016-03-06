@@ -7,7 +7,11 @@ Mobile-friendly platform for tracking friends’ social media, interests, and li
 3. 'npm start' from the root directory
 4. 'ionic serve' from clientRefactor
 
-See IonicGuide.md for instructions on installing and using Ionic. 
+See IonicGuide.md for instructions on installing and using Ionic.
+
+##Screenshot
+
+![Screenshot](./images/screenshot.jpeg)
 
 ##Database Schema
 
